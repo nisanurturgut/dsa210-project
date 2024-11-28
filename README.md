@@ -53,14 +53,6 @@ This project aims to analyze the relationship between my **daily Spotify listeni
    - For example, I could build a simple model to predict whether I will listen to an energetic or relaxing genre based on the day's weather conditions.
 
 ---
-
-## Tools & Technologies
-
-- **Spotify** for extracting my listening data.
-- **WeatherAPI** to retrieve daily weather information.
-- **Python Libraries:** Pandas, Matplotlib, Numpy, and Meachine Learning Libraries.
----
-
 ## License
 
 This project is licensed under the MIT License.
