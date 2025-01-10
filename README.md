@@ -18,7 +18,7 @@ This project aims to analyze the relationship between **daily Spotify listenings
 - **Pandas**: Data manipulation.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Jupyter Notebook**: Interactive coding environment.
-- **APIs**: Used to fetch weather data.
+- **APIs**: Used to fetch spotify data.
 
 ## Results
 The project explores potential correlations between weather conditions and music preferences. Key findings include:
